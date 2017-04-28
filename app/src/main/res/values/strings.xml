@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotePad</string>
+    <string name="create_icon">Create</string>
+    <string name="hint">Scribble Here!</string>
+    <string name="deleteMessage">Are you sure you want to delete this?</string>
+    <string name="postiveButton">Yes</string>
+    <string name="negativeButton">No</string>
+</resources>
